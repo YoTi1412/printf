@@ -39,7 +39,7 @@ int buffer(char);
  *
  * @type: Format
  * @f: The function associated
- **/
+*/
 typedef struct _format
 {
 	char type;
